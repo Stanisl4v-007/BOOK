@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1774177188,
+        "user_id": 1774096295,
+        "title": "Гарри Поттер",
+        "author": "я",
+        "description": "",
+        "category": "Художественная",
+        "year": 2001,
+        "condition": "new",
+        "image": "",
+        "status": "available",
+        "created_at": "2026-03-22 11:59:48"
+    },
+    {
+        "id": 1774179688,
+        "user_id": 1774096295,
+        "title": "Думай и Богатей",
+        "author": "Наполеон Хилл",
+        "description": "",
+        "category": "Художественная",
+        "year": 1937,
+        "condition": "good",
+        "image": "",
+        "status": "available",
+        "created_at": "2026-03-22 12:41:28"
+    },
+    {
+        "id": 1774179913,
+        "user_id": 1774096295,
+        "title": "Мастер и Маргарита",
+        "author": "Михаил Булгаков",
+        "description": "Роман о дьяволе, посетившем Москву 1930-ч годов",
+        "category": "Художественная",
+        "year": 1967,
+        "condition": "satisfactory",
+        "image": "",
+        "status": "available",
+        "created_at": "2026-03-22 12:45:13"
+    },
+    {
+        "id": 1774179963,
+        "user_id": 1774096295,
+        "title": "1984",
+        "author": "Фёдор Достоевский",
+        "description": "Антиутопия о тоталитарном государстве",
+        "category": "Художественная",
+        "year": 1949,
+        "condition": "good",
+        "image": "",
+        "status": "available",
+        "created_at": "2026-03-22 12:46:03"
+    },
+    {
+        "id": 1774180023,
+        "user_id": 1774096295,
+        "title": "Изучаем PHP и MySQL",
+        "author": "Линн Бейли",
+        "description": "Практическое руководство по созданию веб-приложений",
+        "category": "Программирование",
+        "year": 2020,
+        "condition": "new",
+        "image": "",
+        "status": "available",
+        "created_at": "2026-03-22 12:47:03"
+    }
+]
